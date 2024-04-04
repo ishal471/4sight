@@ -1,0 +1,9 @@
+.env
+client_secret.json
+gmail_token.json
+test.py
+info.py
+simple_gmail_learning_email_bot.py
+simple_gmail_learning_read_emails.py
+simple_gmail_learning_send_email.py
+simple_gmail_learning_write_email.py

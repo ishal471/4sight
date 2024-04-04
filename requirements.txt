@@ -1,0 +1,29 @@
+# Requirements file for your project
+
+# Gmail API wrapper
+simplegmail
+
+# Library for loading environment variables from a .env file
+python-dotenv
+
+# OpenAI's Python library for interacting with the API
+openai
+
+# Library for working with regular expressions
+regex
+
+# Web application framework for creating interactive dashboards
+streamlit
+
+# Library for sending emails using SMTP
+yagmail
+
+# textwrap  or textwrap3
+pathlib
+IPython
+google
+# import google.generativeai as genai
+
+# from IPython.display import display
+# from IPython.display import Markdown
+
