@@ -9,6 +9,12 @@ from langchain_openai import ChatOpenAI
 # Load environment variables from .env file
 load_dotenv()
 
+
+# Set environment variables
+os.environ["LANGCHAIN_TRACING_V2"] = "true"
+os.environ["LANGCHAIN_PROJECT"] = "Crew AI Agents"
+
+
 # Set OpenAI API key
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
